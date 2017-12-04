@@ -1,5 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/any-web.iml
-.idea/modules.xml
-.idea/workspace.xml
 node_modules/
+.idea
